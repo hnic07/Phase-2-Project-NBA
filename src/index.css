@@ -1,0 +1,461 @@
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 120px;
+  
+}
+
+.cards__item {
+  display:flex;
+  padding: 1rem;
+  width: 20%;
+
+
+}
+
+.card__item:hover{
+  box-shadow: 0 10px 16px 0 red;
+  transition: scale(1.25)
+}
+
+.card {
+  background-color: white;
+  border-radius: 0.25rem;
+  
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  box-shadow: rgba(255, 0, 0, 0.796) 0 -25px 18px -14px inset,rgba(201, 61, 18, 0.586) 0 1px 2px,rgba(208, 115, 28, 0.675) 0 2px 4px,rgba(197, 98, 16, 0.609) 0 4px 8px,rgba(207, 136, 12, 0.683) 0 8px 16px,rgba(187, 149, 44, 0.584) 0 16px 32px;
+  box-shadow: 0 8px 26px 0 red;
+}
+
+.card__content {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  padding: 1rem;
+  background-color:rgba(105, 105, 105, 0)
+  
+}
+
+.card__image {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  filter: contrast(70%);
+  overflow: hidden;
+  position: relative;
+  transition: filter 0.5s cubic-bezier(.43,.41,.22,.91);
+  
+}
+
+.card__image:hover{
+  filter: contrast(100%);
+  
+
+}
+
+
+.card__title {
+  color: #3f3f3f;
+  font-size: 2.00rem;
+  font-weight: 550;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font:bold
+  
+}
+
+.card__text, .card__detail p {
+  flex: 1 1 auto;
+  font-size: 1rem;
+  line-height: 1.25;
+  margin-bottom: 1.0rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font: bold;
+
+}
+
+.card__detail {
+  display:grid;
+  grid-template-columns: repeat(1, 1fr);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font: bold;
+}
+
+.card__detail p {
+  text-align:center;
+}
+
+.card__detail button{
+  text-align: center;
+}
+
+.stadium__image:hover{
+  transform: scale(1.25);
+  
+  
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.button_arena {
+  background-color: #ff950060;
+  border-radius: 100px;
+  box-shadow: rgba(187, 44, 44, 0.2) 0 -25px 18px -14px inset,rgba(187, 87, 44, 0.15) 0 1px 2px,rgba(187, 123, 44, 0.15) 0 2px 4px,rgba(187, 130, 44, 0.15) 0 4px 8px,rgba(187, 151, 44, 0.15) 0 8px 16px,rgba(187, 161, 44, 0.15) 0 16px 32px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button_arena:hover {
+  box-shadow: rgba(187, 44, 44, 0.35) 0 -25px 18px -14px inset,rgba(187, 75, 44, 0.25) 0 1px 2px,rgba(187, 118, 44, 0.25) 0 2px 4px,rgba(187, 134, 44, 0.25) 0 4px 8px,rgba(187, 146, 44, 0.25) 0 8px 16px,rgba(187, 156, 44, 0.25) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.search {
+  width: auto;
+  position: relative;
+  display: flex;
+}
+
+.searchTerm {
+  width: 100%;
+  border: 3px solid #ff7a0587;
+  border-right: none;
+  padding: 5px;
+  height: 20px;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+  color: #9DBFAF;
+}
+
+.searchTerm:focus{
+  color: #000000;
+}
+
+.searchButton {
+  width: 40px;
+  height: 36px;
+  border: 1px solid #00B4CC;
+  background: #00B4CC;
+  text-align: center;
+  color: #fff;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/*Resize the wrap to see the search bar change!*/
+.wrap{
+  width: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+
+
+
+
+
+
+
+.table_row_items{
+  text-align: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.table_header {
+ text-align: left;
+
+}
+
+
+
+
+
+
+.navbar {
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(50, 50, 169);
+  text-align: center;
+  height:433px
+
+}
+
+li {
+  float:center
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: rgba(247, 31, 31, 0.857);
+
+}
+
+
+.nba_logo {
+  width: 500px;
+  height: 230px;
+  
+}
+
+.navbar_cont{
+  position:none;
+  
+  
+  
+}
+
+body{
+  background-image: url("https://img.freepik.com/premium-photo/close-up-orange-basketball-texture-background_85778-131.jpg?w=2000");
+  position: sticky
+
+}
+
+
+.table{
+background-color: rgba(188, 187, 187, 0.538);;
+font-size: xx-large;
+font-weight: bolder;
+margin-left:auto;
+margin-right:auto;
+width: 80%;
+table-layout: fixed;
+
+}
+
+.table_header{
+  background-color: #3f3f3f80;
+  font-size: 40px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  text-align: center;
+
+
+}
+.header_table{
+  text-align: center;
+  font-size: xx-large;
+  text-decoration:underline;
+  color: #fff;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 50px;
+}
+
+.table_row_items{
+  text-align: center;
+}
+
+
+.filter_conf{
+  background-color: rgb(57, 57, 193);
+  color: #fff;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+  height: 5vh;
+  width: 25vh;
+  font-size: larger;
+  font-family: sans-serif;
+  cursor: pointer;
+  border-color: rgba(247, 31, 31, 0.857);
+  border-radius: 10px;
+  text-align: center;
+  text-shadow: red;
+  border-width: 3px;
+  transition: transform ease-in-out 300ms
+
+}
+
+.filter_div{
+  background-color: rgb(57, 57, 193);
+  color: #fff;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+  height: 5vh;
+  width: 25vh;
+  font-size: larger;
+  font-family: sans-serif;
+  cursor: pointer;
+  border-color: rgba(247, 31, 31, 0.857);
+  border-radius: 10px;
+  text-align: center;
+  text-shadow: red;
+  border-width: 3px;
+  transition: transform ease-in-out 300ms
+
+}
+
+
+
+
+
+
+
+
+.team_card:hover{
+  box-shadow: 0 8px 26px 0 rgb(255, 34, 34);
+}
+
+.team_card{
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+transition: 0.3s;
+width: 20%;
+border-radius: 7px;
+background-color: grey;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color:#000000;
+display:inline-block;
+width: 15%;
+margin: 25px auto;
+
+
+}
+
+.team_image{
+width: 100%;
+border-radius: 7px 7px 0 0;
+height:250px
+}
+
+
+
+.team_input_name{
+  position: relative;
+  font-size: 1.25em;
+  padding: 5px;
+  display: inline-block; 
+  border-radius: 100px;
+
+}
+
+.team_input_location{
+  position: relative;
+  font-size: 1.25em;
+  padding: 5px;
+  display: inline-block; 
+  border-radius: 100px;
+
+}
+
+
+.team_input_logo{
+  position: relative;
+  font-size: 1.25em;
+  padding: 5px;
+  display: inline-block; 
+  border-radius: 100px;
+  
+
+}
+
+.team_title_header{
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 46px;
+  text-shadow: .1em .1em 0 rgb(255, 255, 255)
+}
+
+.subtext{
+  font-size: 25px;
+  text-align: center;
+  color: #fff;
+  text-shadow: .1em .1em 0 rgb(0, 0, 0)
+}
+
+
+.submit_button {
+  background-color: #ffffff;
+  border-radius: 100px;
+  box-shadow: rgba(187, 44, 44, 0.2) 0 -25px 18px -14px inset,rgba(187, 87, 44, 0.15) 0 1px 2px,rgba(187, 123, 44, 0.15) 0 2px 4px,rgba(187, 130, 44, 0.15) 0 4px 8px,rgba(187, 151, 44, 0.15) 0 8px 16px,rgba(187, 161, 44, 0.15) 0 16px 32px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  transform: scale(1);
+}
+
+.submit_button:hover {
+  box-shadow: rgba(187, 44, 44, 0.35) 0 -25px 18px -14px inset,rgba(187, 75, 44, 0.25) 0 1px 2px,rgba(187, 118, 44, 0.25) 0 2px 4px,rgba(187, 134, 44, 0.25) 0 4px 8px,rgba(187, 146, 44, 0.25) 0 8px 16px,rgba(187, 156, 44, 0.25) 0 16px 32px;
+  transform: rotate(-1deg);
+}
+
+
+
+
+

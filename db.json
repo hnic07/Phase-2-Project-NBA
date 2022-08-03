@@ -1,0 +1,402 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Hawks",
+      "location": "Atlanta",
+      "logo": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/271125/20200818002825_132_mascotOrig.png",
+      "conference": "Eastern",
+      "division": "SouthEast",
+      "record": "43-39",
+      "coach": "Nate McMillan",
+      "stadium": "https://content.presspage.com/uploads/1441/1920_statefarmarenabrow.jpg?10000",
+      "bio": "The Atlanta Hawks were a team on the move in their early years. They are one of the oldest teams in basketball. In the first decade as a team they were known as the Buffalo Bisons, Tri-Cities Blackhawks, Milwaukee Hawks, and the St. Louis Hawks. In St. Louis, the Hawks had some very good seasons. In 1957 the Hawks made it to the NBA finals for the first time. They lost to the Boston Celtics in the one of the most thrilling game 7's in Finals history. The Hawks lost in the winner take game in double overtime. The Hawks would make it back to the Finals the following year once again to face the Boston Celtics. They time fate was on their side as the defeated the Celtics in 6 games to capture the first championship in franchise history."
+    },
+    {
+      "id": 2,
+      "name": "Celtics",
+      "location": "Boston",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "record": "51-31",
+      "coach": "Ime Udoka",
+      "stadium": "https://upload.wikimedia.org/wikipedia/commons/6/6a/TD_Garden_%28crop%29.JPG",
+      "bio": "Out of the 17 teams the NBA originally consisted of upon its official creation in 1949, only eight are still active today and only two have never relocated or change their names. One of these are the Boston Celtics.Founded in 1946 by Boston Garden-Arena Corporation President Walter A. Brown, as part of the BAA (Basketball Association of America), the Boston Celtics currently play in the Atlantic Division of the Eastern Division. With a record 17 NBA championship rings, they are the most successful NBA franchise ever as well as one of the most dominant team in all of sports. Their longevity, success and hard-work ethic have contributed to making them one of the most iconic teams in American sports."
+    },
+    {
+      "id": 3,
+      "name": "Nets",
+      "location": "Brooklyn",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2015/12/nets.png",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "record": "44-38",
+      "coach": "Steve Nash",
+      "stadium": "https://www.si.com/.image/t_share/MTg5ODIzMjY2NzM3NjI4ODYw/barclays-center.jpg",
+      "bio": "The Brooklyn Nets were one of the four teams to join the NBA in the ABA-NBA merger in 1976. The Nets were successful in the ABA before the merger. They were able to win two championships in their ABA days. The team did not begin as the New Jersey Nets though. They began as the New York Americans, but before they ever played a game they were relocated across the river to New Jersey. The Nets ended up moving back into New York and played most of their time in the ABA as the New York Nets. The Nets won their two ABA championships behind the play of Julius Erving also known as “Dr. J.” He won the league MVP, and he is still considered today one of the best players and dunkers in the history of basketball."
+    },
+    {
+      "id": 4,
+      "name": "Hornets",
+      "location": "Charlotte",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/charlotte-hornets.png",
+      "conference": "Eastern",
+      "division": "SouthEast",
+      "record": "43-39",
+      "coach": "Steve Clifford",
+      "stadium": "https://www.spectrumcentercharlotte.com/assets/img/Spectrum_Center_TradeSt_Slide-b25a4c749a.jpg",
+      "bio": "The Charlotte Hornets have had a short and forgettable history in the NBA. In 2002, the Hornets left Charlotte to begin a new in New Orleans. This left Charlotte without an NBA team. Two years after the Hornets left, the hornets began their existence as a franchise. In their first season in the league, the hornets struggled as expected. They never won more than two games in a row. The bright spots as a franchise in their first season would have been winning the second game they ever played in, beating the Hornets in Charlotte after they departed for New Orleans, and Emeka Okafor winning the Rookie of the Year award."
+    },
+    {
+      "id": 5,
+      "name": "Bulls",
+      "location": "Chicago",
+      "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/121bb913988671.5627b74f5f260.jpg",
+      "conference": "Eastern",
+      "division": "Central",
+      "record": "46-36",
+      "coach": "Billy Donovan",
+      "stadium": "https://about.att.com/ecms/dam/snr/2021/December2021/Social/12102021_BullsBlackhawks_LI_1200x627.jpg",
+      "bio": "The Chicago Bulls are historically the third pro basketball team to find a home in the Windy City. Created in 1966 as an expansion franchise, they currently play in the Central Division of the Eastern Conference. The history of the Chicago Bulls is, more than any other team in history, linked to one single player, five-time MVP Michael Jordan. While in Chicago, Jordan led the Bulls to six championships, making them the third most-titled franchise in NBA history, just behind the legendary Boston Celtics and Los Angeles Lakers. After being the team of the 1990s and helping NBA become the global force it is today, the Chicago Bulls are now witnessing the rise of a new generation."
+    },
+    {
+      "id": 6,
+      "name": "Cavaliers",
+      "location": "Cleavland",
+      "logo": "https://www.cavsyouth.com/wp-content/uploads/2019/12/Cavs-Global-Logo-Shield-ON-BLACK.jpg",
+      "conference": "Eastern",
+      "division": "Central",
+      "record": "44-38",
+      "coach": "BJ Bickerstaff",
+      "stadium": "https://x-default-stgec.uplynk.com/ausw/slices/33a/b2c1c5c2af374f52af57ddcae54c6663/33a4b8b25601426286b8967b20446468/poster_662762e8736847c9aa436149393d1495.jpg",
+      "bio": "The Cleveland Cavaliers have fallen from the heights of an elite NBA franchise. Two seasons ago, the Cavs were finishing with the best record in the NBA for the second year in a row. In 2007 the Cavs went to the Finals. Last season they were hard to watch. They lost an NBA worst 26 games in a row. What makes the failures the Cavs have experienced so tough is how it happened. In 2003, after a decade of being one of the worst teams in the league consistently, the Cavaliers finally got a break. They were rewarded with the first pick in the NBA draft. Not only was it the first pick, but it was the first pick in a draft that LeBron James was entering."
+    },
+    {
+      "id": 7,
+      "name": "Mavericks",
+      "location": "Dallas",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/dallas_mavericks.jpg",
+      "conference": "Western",
+      "division": "SouthWest",
+      "record": "52-30",
+      "coach": "Jason Kidd",
+      "stadium": "https://images.fineartamerica.com/images-medium-large-5/american-airlines-center-dallas-bill-cobb.jpg",
+      "bio": "In 1980, the Dallas Mavericks entered the NBA, and quickly became a relevant team to the NBA landscape. In just their fourth season in the NBA they made the playoffs and even won a playoff series. After a few successful seasons, the Mavs slid down the rankings, and they became a nonfactor in the league. The success of the franchise greatly increased a few seasons after they made Don Nelson their head coach. In his third season as the coach of the Mavericks, Don Nelson coached the team to the playoffs. That was in 2000. 12 years later, they have yet to miss the playoffs since. In fact, they have yet to win less than 50 games in a season since then. In an unheard of stretch, they have won at least 60% of their games every season since 2000. Don Nelson was only the coach for six seasons."
+    },
+    {
+      "id": 8,
+      "name": "Nuggets",
+      "location": "Denver",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/nuggets.png",
+      "conference": "Western",
+      "division": "NorthWest",
+      "record": "48-34",
+      "coach": "Michael Malone",
+      "stadium": "https://images.303magazine.com/uploads/2022/02/UNADJUSTEDNONRAW_thumb_27b.jpg",
+      "bio": "Larks, Rockets, and now the Nuggetsare the names by which the NBA's professional team in Denver has been known. The Nuggets briefly began their existence as the Denver Larks. They then changed ownership and names to the Houston Rockets. The Nuggets originally played in the American Basketball Association (ABA) before they merged into the NBA. For most of their time in the ABA, they were known as the Rockets. The problem arose when they began to make preparations to merge into the NBA because the NBA's team in Houston already used the name the Rockets. This led Denver to change their name to the Nuggets two seasons before merging into the NBA. The last few years in the ABA and the first few years in the NBA were some of the most successful years for the franchise. In 1976, the last season before the ABA and NBA merged, the Nuggets made it to the ABA championship series. This is their only time in a championship series as they have never made it to the NBA Finals."
+    },
+    {
+      "id": 9,
+      "name": "Pistons",
+      "location": "Detriot",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/pistons.jpg",
+      "conference": "Eastern",
+      "division": "Central",
+      "record": "23-59",
+      "coach": "Dwane Casey",
+      "stadium": "https://www.giffelswebster.com/wp-content/uploads/2018/09/little-caesars.jpg",
+      "bio": "The Detroit Pistons are so old that they predate the NBA. The NBA formed in 1949. The Pistons began in 1947 as the Fort Wayne Pistons. The Pistons moved to Detroit in 1958. Detroit was not one of the elite teams in the NBA during the first few decades of their existence. They were not one of the worst either. They were in stuck in mediocrity for a long time. Other than their 1955 trip to the Finals, the Pistons do not have much to boast about until the 80's. In 1981, a few things happened for the Pistons that would make them a force to be reckoned with for the next decade. They drafted Isaiah Thomas and traded for Bill Laimbeer and Vinnie Johnson. These three players would be the core of the team which would be known as the “Bad Boys.” With the additions of Joe Dumars and Dennis Rodman, the Pistons would complete their tough nosed, defensive roster."
+    },
+    {
+      "id": 10,
+      "name": "Warriors",
+      "location": "Golden State",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/warriors.jpg",
+      "conference": "Western",
+      "division": "Pacific",
+      "record": "53-29",
+      "coach": "Steve Kerr",
+      "stadium": "https://s.hdnux.com/photos/01/05/22/36/18163633/15/rawImage.jpg",
+      "bio": "The Golden State Warriors have the claim to fame that can never be taken away from them. The Warriors won the first ever championship. The Warriors are such an old team that their first title came before the NBA. The Warriors were located in Philadelphia when they won the first ever Basketball Association of America (BAA) championship. After two more seasons as the BAA, the BAA and the National Basketball League (NBL) merged to form the NBA. After their success winning the title in the inaugural season of 1947, the Warriors would continue their fine play as a team. They would return to the Finals in their second season, but they would lose to the Baltimore Bullets. The Warriors were constantly one of the better teams in the league during the early years. They won the title again 1956 for their first title since the two leagues merged into the NBA."
+    },
+    {
+      "id": 11,
+      "name": "Rockets",
+      "location": "Houston",
+      "logo": "https://forwardtimes.com/wp-content/uploads/2019/11/houston_rockets_logo-2003-present-1.png",
+      "conference": "Western",
+      "division": "SouthWest",
+      "record": "20-62",
+      "coach": "Stephen Silas",
+      "stadium": "https://populous.com/wp-content/uploads/2018/01/POP_00_0653_00_N56_medium.jpg",
+      "bio": "As with most teams in the NBA, the Houston Rockets did not begin as the rockets. The franchise has always gone by the moniker Rockets, but they entered the league in 1967 as the San Diego Rockets. The Rockets moved to Houston in 1971 where they have been ever since. During the dark few seasons in the league, the Rockets were getting some of the first picks in the NBA draft. It was with their first pick in 1969 that they selected Elvin Hayes. Hayes is very important to the Rockets history because in his rookie season, he led the Rockets to their first ever trip to the playoffs. After a few very good seasons for the Rockets, Hayes was traded away."
+    },
+    {
+      "id": 12,
+      "name": "Pacers",
+      "location": "Indiana",
+      "logo": "https://content.sportslogos.net/logos/6/224/full/x8e15d8nfylywft2g882gkyyd.gif",
+      "conference": "Eastern",
+      "division": "Central",
+      "record": "25-57",
+      "coach": "Rick Carlisle",
+      "stadium": "https://cloudinary-assets.dostuffmedia.com/res/dostuff-media/image/upload/venue-45792/1477518155.jpg",
+      "bio": "The Indiana Pacers began as a basketball team in the American Basketball Association (ABA) and not in the National Basketball Association (NBA). The Pacers were the most dominant team in the nine year history of the ABA. Out of the nine seasons the ABA existed, the Pacers went to the championship series five times. They won three of those five appearances which left them winning one third of the championships in ABA history."
+    },
+    {
+      "id": 13,
+      "name": "Clippers",
+      "location": "Los Angeles",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/los_angeles_clippers.png",
+      "conference": "Western",
+      "division": "Pacific",
+      "record": "42-40",
+      "coach": "Tyronn Lue",
+      "stadium": "https://thestadiumreviews.com/wp-content/uploads/2022/05/crypto.com-arena-food.jpg",
+      "bio": "For most of their history the Los Angeles Clippers have been synonymous with losing. In all of the major sports in the United States, the Clippers along with maybe four other teams were the embodiment of failure. The franchise began in the 1970 as the Buffalo Braves. The Braves had some success for the years they were in Buffalo. They qualified for the playoffs numerous times, and they won some playoff series. After eight seasons in Buffalo, the franchise moved to San Diego and took on the new name Clippers. It is at this point in which the Clippers came into existence as the shameful team they have been known to be. For thirteen years, they failed to make the playoffs or win half of their games."
+    },
+    {
+      "id": 14,
+      "name": "Lakers",
+      "location": "Los Angeles",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/los-angeles-lakers.png",
+      "conference": "Western",
+      "division": "Pacific",
+      "record": "33-49",
+      "coach": "Darvin Ham",
+      "stadium": "https://d1e00ek4ebabms.cloudfront.net/production/88c11db9-7965-475e-a75b-a19c87004c3b.jpg",
+      "bio": "The Los Angeles Lakers are one of the oldest and most revered teams in the NBA. Other teams might talk about how many times they have made the playoffs or won their division, but the Lakers talk about their 16 NBA championships. There will always be debate about who the best players in NBA history have been, but depending who you ask there could easily be four Lakers in the top ten best NBA players of all time. They joined the NBA in 1947 as the Minneapolis Lakers. Minneapolis is located in the state of Minnesota which has the nickname of “land of a thousand lakes.” This is why the team chose to be called the Lakers."
+    },
+    {
+      "id": 15,
+      "name": "Grizzlies",
+      "location": "Memphis",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/memphis_grizzlies.jpg",
+      "conference": "Western",
+      "division": "SouthWest",
+      "record": "56-26",
+      "coach": "Taylor Jenkins",
+      "stadium": "https://www.mortenson.com/-/media/project/mortenson/site/images/projects/fedex-forum/banner-image.jpg",
+      "bio": "The Memphis Grizzlies are a relatively new team on the NBA landscape. They entered the league in 1995 along with the Toronto Raptors. The NBA was attempting to expand their influence across the countries boarders, and so they started teams in Vancouver and Toronto both of which are in Canada. It was not until 2001 that the Grizzlies moved from Vancouver to Memphis which is in the United States. The Grizzlies were never a force to be reckoned with in Vancouver. They were consistently one of the worst teams in the league. No players desired to play for a beleaguered franchise in a Canadian city. The extent of this was shown when the Grizzlies drafted Steve Francis in 1999. He refused to play for the Grizzlies even though they drafted him. He said they need to trade him because he would not play in Vancouver."
+    },
+    {
+      "id": 16,
+      "name": "Heat",
+      "location": "Miami",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/miami_heat.jpg",
+      "conference": "Eastern",
+      "division": "SouthEast",
+      "record": "53-29",
+      "coach": "Eric Spoelstra",
+      "stadium": "https://upload.wikimedia.org/wikipedia/commons/4/44/American_Airlines_Arena%2C_Miami%2C_FL%2C_jjron_29.03.2012.jpg",
+      "bio": "The Miami first few seasons were abysmal. They did not win more than 20 games in season until their third season in the league. They only won 24 games their third season. All three of these seasons they were on the bottom of their division. Things began to change for the better after that. The Heat qualified for the playoffs in the 1991-1992 season despite having a losing record. The next season the Heat regressed and missed the playoffs. The 1994-1995 season was the first season in which the Heat had a record above .500, and they made the playoffs again."
+    },
+    {
+      "id": 17,
+      "name": "Bucks",
+      "location": "Milwaukee",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/milwaukee_bucks.png",
+      "conference": "Eastern",
+      "division": "Central",
+      "record": "51-31",
+      "coach": "Mike Budenholzer",
+      "stadium": "https://cdn.nba.com/teams/legacy/www.nba.com/bucks/sites/bucks/files/ff-ext-0526-4.jpg",
+      "bio": "The Milwaukee Bucks joined the National Basketball Association in 1968. In their first season they struggled to only 27 wins. That is the case with new expansion teams, and they take a few seasons to develop into legitimate teams. Although the Bucks struggled in their first season, they bucked the trend in their second season behind the play of Lew Alcindor who would later convert to Islam and change his name to Kareem Abdul-Jabbar. In their second season in the league, the Bucks improved 29 games to finish with a 56-26 record. That was good enough to finish with the second best record in the league in only their second year as a franchise."
+    },
+    {
+      "id": 18,
+      "name": "Timberwolves",
+      "location": "Minnesota",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/wolves.jpg",
+      "conference": "Western",
+      "division": "NorthWest",
+      "record": "46-36",
+      "coach": "Chris Finch",
+      "stadium": "https://www.aegworldwide.com/sites/default/files/styles/medium/public/facility/2019-08/Target%20Center.JPG?itok=wus9D-uQ",
+      "bio": "In 1989 the Minnesota Timberwolves became the first team to play in Minnesota since the Lakers left in 1960. The Timberwolves had the same fate as most new NBA teams when they first entered the league. They struggled for a few years. They did not have much success at all in from their first season in 1989 until 1995. In that stretch they never won 30 games. In 1995 the T-Wolves drafted the future face of their franchise. They drafted Kevin Garnett out of high school. In his first season, the Wolves did not improve as they only won 21 games. In Garnett's second season with the Wolves, the team went to new heights. The Wolves easily surpassed their previous win total by going from never winning 30 games to winning 40 games in 1996. They would not however have a winning record as they finished with a 40-42 record. This was good enough to make the playoffs for the first time in team history."
+    },
+    {
+      "id": 19,
+      "name": "Pelicans",
+      "location": "New Orleans",
+      "logo": "https://logos-world.net/wp-content/uploads/2020/05/New-Orleans-Pelicans-Logo.png",
+      "conference": "Western",
+      "division": "SouthWest",
+      "record": "36-46",
+      "coach": "Willie Green",
+      "stadium": "https://d2uqqhmijd5j2z.cloudfront.net/files/131369/original/Screen_Shot_2016-12-21_at_2.06.10_PM.png?1482350792",
+      "bio": "The New Orleans Pelicans have only been a team in the NBA for 23 years, but they have been on the move during those years. In 1988, the NBA expanded adding the Pelicans and the Miami Heat. They were not the New Orleans Pelicans though. They came into the league as the Charlotte Hornets. Most new teams struggle in their first few years in the NBA, and the Pelicans were no different. The difference with the Pelicans was that despite the struggles the first few years, they led the NBA in fan attendance in 8 of their first 10 seasons."
+    },
+    {
+      "id": 20,
+      "name": "Knicks",
+      "location": "New York",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/new_york_knicks.jpg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "record": "37-45",
+      "coach": "Tom Thibodeau",
+      "stadium": "https://nypost.com/wp-content/uploads/sites/2/2020/05/madison-square-garden.jpg?quality=75&strip=all",
+      "bio": "The New York Knicks have been a polarizing team this season. The Knicks have the largest media coverage in the country due to being located in New York City. Little happens that takes place on this team that goes unnoticed by the NBA audience. The Knicks have a prestigious history as one of the first professional teams in the United States. The Knicks and the Boston Celtics are the only two teams in the league that are in the same city that they started in. Since the Knicks were one of the original teams, they started off with success as a franchise. They qualified for the playoffs their first three seasons. The Knicks then went to the NBA Finals three years in a row after their first three seasons, but they failed to win a championship."
+    },
+    {
+      "id": 21,
+      "name": "Thunder",
+      "location": "Oklahoma City",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/oklahoma_city_thunder.jpg",
+      "conference": "Eastern",
+      "division": "NorthWest",
+      "record": "24-58",
+      "coach": "Mark Daigneault",
+      "stadium": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Paycom_Center.jpg",
+      "bio": "The Oklahoma City Thunder have established themselves as one of the leagues elite teams. They currently have the best record in the Western Conference. Their recent rise to fame has been a steady climb. It began after a woeful season in 2006-2007. Things were so different then that the team was neither named the Thunder nor was it in Oklahoma City. The Seattle Supersonics, as the team was called then, finished with a 31-51 record. The only bright point is that they won the second pick in the upcoming draft. The two big names in the draft were Greg Oden out of Ohio State University and Kevin Durant coming out of Texas University."
+    },
+    {
+      "id": 22,
+      "name": "Magic",
+      "location": "Orlando",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/orlando_magic.jpg",
+      "conference": "Eastern",
+      "division": "SouthEast",
+      "record": "22-60",
+      "coach": "Jamahl Mosley",
+      "stadium": "https://www.amwaycenter.com/assets/img/BTExterior-Amway-Center-1.1-c51e9f0c4e.jpg",
+      "bio": "The Orlando Magic joined the NBA in 1988 along with the Miami Heat, Charlotte Hornets, and Minnesota Timberwolves. The Magic have been a very successful team since they joined the league. They have made the playoffs in over half of the season of their existence. They have played in two Finals, but they have failed to bring a championship home to Orlando. The first few seasons, the Magic worked their way towards respectability. They were making it close to be a playoff team when numerous players were hurt in the 1991-1992 season. This led to a 21-61 record. The bright spot of this terrible season was the consolation of winning the first pick in the NBA draft. With that pick the Magic drafted Shaquille O'Neal. Shaq led the Magic to a drastic turn around the next season. They went from a 21-61 record to a 41-41 record the next season. Shaq was the first rookie to be voted an All Star since Michael Jordan was almost a decade earlier."
+    },
+    {
+      "id": 23,
+      "name": "76er's",
+      "location": "Philadelphia",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/philadelphia_76ers1.jpg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "record": "51-31",
+      "coach": "Doc Rivers",
+      "stadium": "https://upload.wikimedia.org/wikipedia/commons/5/50/Wells_Fargo_Center_-_2019_OWL_Grand_Finals.jpg",
+      "bio": "The Philadelphia 76ers became a professional basketball team in 1946 which was before the NBA was in existence. When two leagues merged to form the NBA, the Syracuse Nationals were one of the teams to beat early on. The Nationals played in the first even NBA Finals against the Minneapolis Lakers. The Lakers would go on to win the title. The Nationals would win their first championship a few years later when they defeated the Fort Wayne Pistons in a thrilling game seven win. In 1963 the Syracuse Nationals moved to Philadelphia. The team thought it would be good to have a new name for their new city of Philadelphia. They decided to be called the 76ers in honor of the historic city of Philadelphia and in honor of the year the United States became a nation in 1776. The 76ers often go by the shorthand name the “Sixers.”"
+    },
+    {
+      "id": 24,
+      "name": "Suns",
+      "location": "Phoenix",
+      "logo": "https://www.sportsmanor.com/wp-content/uploads/2021/06/1297668.jpg",
+      "conference": "Western",
+      "division": "Pacific",
+      "record": "64-18",
+      "coach": "Monty Williams",
+      "stadium": "https://image.cnbcfm.com/api/v1/image/106912094-1626446661133Phoenix-Suns-Mercury-x-Footprint-jpg?v=1626463246",
+      "bio": "The Phoenix Suns are one of the two expansion teams to join the NBA in 1968 and the first ever professional franchise in major American sports (being basketball, American football, baseball and ice hockey) to locate in Arizona. They currently play in the Pacific Division of the Western Conference where they are the only team not to be based in California. In their 40+ years of existence, the Suns have missed the playoffs only 12 times, won their division 6 times and been twice to the NBA Finals but have never been able to secure a title. With the 4th best winning percentage in the history of the League but no ring to show for it, they have earned the nickname “best team never to win a championship”."
+    },
+    {
+      "id": 25,
+      "name": "Trail Blazers",
+      "location": "Portland",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/trail_blazers.png",
+      "conference": "Western",
+      "division": "NorthWest",
+      "record": "27-55",
+      "coach": "Chauncey Billups",
+      "stadium": "https://rosequarter.com/wp-content/uploads/2015/10/Arena_Night.jpg",
+      "bio": "Few teams can boast what the Portland Trail Blazers can. The Blazers have been located in Portland for all 31 years of their existence. They also have only been known as the Trail Blazers. The lack of change has helped the team to have a consistent following in their history. The Blazers have the record for most home games sold out in a row with 814 consecutive game sold out in Portland. The Blazers struggled early on as a team which is the case for almost all teams in league history. In took from 1970 until the late 70's for the Blazers to become competitive. Not only did they become competitive, but they became champions. In 1977 the Blazers won their first and only NBA title. The turn around from a team who won the first pick in the draft due to their terrible record to NBA championship happened behind the play of Bill Walton."
+    },
+    {
+      "id": 26,
+      "name": "Kings",
+      "location": "Sacramento",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/kings.png",
+      "conference": "Western",
+      "division": "Pacific",
+      "record": "30-52",
+      "coach": "Mike Brown",
+      "stadium": "https://www.golden1center.com/assets/img/9R6A0714-1-506c0aabb5.jpg",
+      "bio": "Having the name the Kings implies that this team would be one of the top teams in the NBA. They should be the rulers of the league. That is not the case though. It has hardly ever been the case for the Sacramento Kings. In 1945 the franchise came into existence as the Rochester Royals. This was before the merger of the National Basketball League (NBL) and the Basketball Association of America. The Kings played in the NBL for a few seasons before they switched to the BAA. A year later the two leagues merged to form the NBA in 1949.It was in the early years that the Rochester Royals played like royalty. They were the elite of the league when they joined the NBL. In their first season, they won the NBL championship behind the play of players like Bob Davies, George Glamack, Al Cervi, and Otto Graham. Otto Graham would go on to be a very successful football player in the NFL. In their years in the NBL, the Royals finished as one of the best teams in the league every year. The same was true when they moved to the BAA and then to the NBA in the merger."
+    },
+    {
+      "id": 27,
+      "name": "Spurs",
+      "location": "San Antonio",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/san_antonio_spurs.jpg",
+      "conference": "Western",
+      "division": "SouthWest",
+      "record": "34-48",
+      "coach": "Gregg Popovich",
+      "stadium": "https://www.attcenter.com/assets/img/DJI_0138-8d943da82b.jpg",
+      "bio": "When a person thinks of successful NBA teams, the first two teams that come to mind are usually the Boston Celtics and the Los Angeles Lakers. They have 17 and 16 championships respectively. After the two of them there is a major drop off to the Bulls who have won 6. People will often think of the Bulls as one of the most successful team largely because of the dominance and thrill that Michael Jordan brought to the game. A team that can often be forgotten about as one of the most storied franchises in the NBA is the San Antonio Spurs. The Spurs entered the NBA when the ABA and the NBA merged in 1976. Of the ABA teams that are left in the NBA, only the Spurs won a championship in the ABA. They have followed that title up with four NBA championships all since the 1999 season."
+    },
+    {
+      "id": 28,
+      "name": "Raptors",
+      "location": "Toronto",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/toronto_raptors.jpg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "record": "48-34",
+      "coach": "Nick Nurse",
+      "stadium": "https://www.scotiabankarena.com/assets/img/SBA-VENUE-SEPT-2020-MED-RES-4700-6526774ac2.jpeg",
+      "bio": "The Toronto Raptors are the only NBA team to still be playing in Canada. They entered the league in 1995 when the NBA wanted to bring a broader fan base with the addition of the Vancouver Grizzlies and the Raptors. The Grizzlies moved to Memphis in 2001. The Raptors struggled the first few years in the league. Their first season they won only 21 games, but they were one of the few teams to beat the Bulls who finished that season with the best record in NBA history. The Raptors were led by their rookie point guard Damon Stoudamire. He would go on to earn the rookie of the year award that season. The Raptors won the NBA Championship in 2019 with Kawhi Leonard leading the way."
+    },
+    {
+      "id": 29,
+      "name": "Jazz",
+      "location": "Utah",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/jazz.jpg",
+      "conference": "Western",
+      "division": "NorthWest",
+      "record": "49-33",
+      "coach": "Will Hardy",
+      "stadium": "https://www.payintech.com/wp-content/uploads/2020/03/Vivint-Smart-Home-Arena.jpg",
+      "bio": "The Utah Jazz history can be broken up into three sections: before Karl Malone and John Stockton, during Malone and Stockton, and after Malone and Stockton. That is how much these two players did for the franchise. The Jazz struggled early on in the NBA. They started out as the New Orleans Jazz in 1974. Early on they traded for NBA star and former local college star “Pistol” Pete Maravich. He led the NCAA in scoring average over a career, and he led the NBA in scoring one season. The Jazz hoped he would lead them to a quick start in the league, but he had numerous injuries which limited his playing time. After five years in New Orleans, the Jazz were forced to relocate due to decline in revenue as well as struggling to find a permanent place to play their home games. In 1979 the Jazz moved to Salt Lake City in Utah. They kept the name Jazz to become the Utah Jazz."
+    },
+    {
+      "id": 30,
+      "name": "Wizards",
+      "location": "Washington",
+      "logo": "https://www.nbateamslist.com/wp-content/uploads/2013/04/wizzards.jpg",
+      "conference": "Eastern",
+      "division": "SouthEast",
+      "record": "35-47",
+      "coach": "Wes Unseld Jr.",
+      "stadium": "https://images.discotech.me/venue/1234/130b9472-1441-4584-895c-433e1cb97860.jpg?auto=format%2Ccompress",
+      "bio": "The Washington Wizards history is not the brightest in history. Their present is gloomy at best. Their future has hops for improvement. The Wizards entered the NBA in 1961, but they were located in Chicago and for their first season, they were called the Packers. The next year the franchise changed its name to the Chicago Zephyrs. After one more year, the team found a more permanent location and name when they moved and became the Baltimore Bullets. The Bullets had mild success in their early years. They did not take long to become a playoff team, and they won a playoff series in their first year in the playoffs. The Bullets would for a rivalry with the Knicks for a few seasons in which they faced each other in the playoffs for a few consecutive years. In 1971 the Bullets managed to get past the Knicks finally, and they did it in the Eastern Conference finals to advance to the championship."
+    }
+  ],
+  "newteam": [
+    {
+      "id": 1,
+      "name": "Dizzaster Dawgzzz",
+      "location": "New York",
+      "logo": "https://i.pinimg.com/originals/af/6b/0c/af6b0cf1fc2c1711d49440f09530e7ab.jpg"
+    },
+    {
+      "name": "Killer Kittenzzz",
+      "location": "Kansas City",
+      "logo": "https://image.petmd.com/files/small-kitten-walking-towards_127900829_0.jpg",
+      "id": 3
+    },
+    {
+      "name": "Blasphemous Bearzzz",
+      "location": "Yosimite",
+      "logo": "https://www.wfxrtv.com/wp-content/uploads/sites/20/2022/05/Baby-bear-4.jpg?w=501",
+      "id": 4
+    },
+    {
+      "name": "Rabid Racoonzzz",
+      "location": "Miami",
+      "logo": "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/4/c2/4c2ac2dc-a4ae-5037-ad7c-d1ee4060085a/596f77b66de70.image.jpg?resize=479%2C500",
+      "id": 5
+    },
+    {
+      "name": "Tantalizing Tigers",
+      "location": "Asia",
+      "logo": "https://wallpaperaccess.com/full/1167535.jpg",
+      "id": 6
+    },
+    {
+      "name": "",
+      "location": "",
+      "logo": "",
+      "id": 7
+    }
+  ]
+}

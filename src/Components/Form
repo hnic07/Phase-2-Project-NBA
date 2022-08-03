@@ -1,0 +1,68 @@
+/*
+
+import { useState } from "react";
+
+function Form() {
+  const [name, setName] = useState("");
+  const [location, setLocation] = useState("");
+  const [logo, setLogo] = useState("");
+  const [message, setMessage] = useState("");
+
+  let handleSubmit = async (e) => {
+    e.preventDefault();
+    try {
+      let res = await fetch("http://localhost:3000/newteam", {
+        method: "POST",
+        body: JSON.stringify({
+          name: name,
+          location: location,
+          logo: logo,
+        }),
+      });
+      let resJson = await res.json();
+      if (res.status === 200) {
+        setName("");
+        setLocation("");
+        setLogo("");
+        setMessage("User created successfully");
+      } else {
+        setMessage("Some error occured");
+      }
+    } catch (err) {
+      console.log(err);
+    }
+  };
+  
+
+  return (
+    <div className="form">
+      <form onSubmit={handleSubmit}>
+        <input
+          type="text"
+          value={name}
+          placeholder="Name"
+          onChange={(e) => setName(e.target.value)}
+        />
+        <input
+          type="text"
+          value={location}
+          placeholder="location"
+          onChange={(e) => setLocation(e.target.value)}
+        />
+        <input
+          type="text"
+          value={logo}
+          placeholder="Logo"
+          onChange={(e) => setLogo(e.target.value)}
+        />
+
+        <button className="form_submit_btn" type="submit">Create</button>
+
+        <div className="message">{message ? <p>{message}</p> : null}</div>
+      </form>
+    </div>
+  );
+}
+
+export default Form; 
+*/
